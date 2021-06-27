@@ -1,6 +1,6 @@
 # Ragnarok Wizard Repository
 
-The official home of OpenWizard.
+The official home of RagnarokWizard.
 
 
 NOTE: This is a fork of https://github.com/a4k-openproject/repository.openwizard

@@ -4,9 +4,6 @@
 [submodule "matrix/plugin.program.ragnarok"]
 	path = matrix/plugin.program.ragnarok
 	url = https://github.com/RagnarLothbrok-Odin/plugin.program.ragnarok
-[submodule "matrix/skin.arctic.horizon.2"]
-	path = matrix/skin.arctic.horizon.2
-	url = https://github.com/jurialmunkey/skin.arctic.horizon.2
 [submodule "matrix/script.skinvariables"]
 	path = matrix/script.skinvariables
 	url = https://github.com/jurialmunkey/script.skinvariables

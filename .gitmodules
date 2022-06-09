@@ -4,9 +4,6 @@
 [submodule "matrix/plugin.program.ragnarok"]
 	path = matrix/plugin.program.ragnarok
 	url = https://github.com/RagnarLothbrok-Odin/plugin.program.ragnarok
-[submodule "matrix/script.skinvariables"]
-	path = matrix/script.skinvariables
-	url = https://github.com/jurialmunkey/script.skinvariables
 [submodule "matrix/context.themoviedb.helper"]
 	path = matrix/context.themoviedb.helper
 	url = https://github.com/jurialmunkey/context.themoviedb.helper

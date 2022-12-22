@@ -1,6 +1,3 @@
-[submodule "leia/plugin.program.ragnarok"]
-	path = leia/plugin.program.ragnarok
-	url = https://github.com/RagnarLothbrok-Odin/plugin.program.ragnarok
 [submodule "matrix/plugin.program.ragnarok"]
 	path = matrix/plugin.program.ragnarok
 	url = https://github.com/RagnarLothbrok-Odin/plugin.program.ragnarok

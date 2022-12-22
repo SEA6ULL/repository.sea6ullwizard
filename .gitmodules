@@ -1,6 +1,3 @@
 [submodule "matrix/plugin.program.ragnarok"]
 	path = matrix/plugin.program.ragnarok
 	url = https://github.com/RagnarLothbrok-Odin/plugin.program.ragnarok
-[submodule "nexus/plugin.program.ragnarok"]
-	path = nexus/plugin.program.ragnarok
-	url = https://github.com/RagnarLothbrok-Odin/plugin.program.ragnarok

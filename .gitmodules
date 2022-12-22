@@ -1,0 +1,3 @@
+[submodule "plugin.program.ragnarok"]
+	path = plugin.program.ragnarok
+	url = https://github.com/RagnarLothbrok-Odin/plugin.program.ragnarok

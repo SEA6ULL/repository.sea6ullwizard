@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="repository.sea6ullwizard" name="SEA6ULL Wizard Repository" version="1.0" provider-name="SEA6ULL">
+    <extension point="xbmc.addon.repository" name="SEA6ULL Wizard Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/SEA6ULL/repository.sea6ullwizard/master/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/SEA6ULL/repository.sea6ullwizard/master/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/SEA6ULL/repository.sea6ullwizard/master/master/zips/</datadir>
+        </dir>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary>SEA6ULL Wizard</summary>
+        <description>The official home of SEA6ULL Wizard.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://www.github.com/SEA6ULL/repository.sea6ullwizard/</source>
+    </extension>
+</addon>
+</addons>

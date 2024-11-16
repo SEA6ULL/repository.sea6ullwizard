@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.sea6ullwizard" name="SEA6ULL Wizard" version="3.0.3" provider-name="SEA6ULL">
+	<requires>
+		<import addon="xbmc.python" version="3.0.1"/>
+		<import addon="script.module.requests"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">SEAGULL Wizard is a lightweight template for installing builds on Kodi.</summary>
+		<description lang="en_GB">Kodi Wizard</description>
+		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
+		<language>en</language>
+		<platform>all</platform>
+		<license>GPL-2.0-or-later</license>
+		<forum></forum>
+		<website></website> 
+		<email></email>
+		<source></source>
+		<news>3.0.3 - Migrated from forked Simple 19 Wizard to SEA6ULL Wizard.
+		</news>
+		<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+				<screenshot>resources/screenshot-01.jpg</screenshot>
+				<screenshot>resources/screenshot-02.jpg</screenshot>
+				<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
+	</extension>
+</addon>
